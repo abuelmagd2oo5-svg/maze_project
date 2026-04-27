@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\AAST\Semester 6\Projects\computerGraphics\computerGraphics\Source.cpp(189,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\AAST\Semester 6\Projects\computerGraphics\computerGraphics\Source.cpp(190,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\AAST\Semester 6\Projects\computerGraphics\computerGraphics\Source.cpp(197,35): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\AAST\Semester 6\Projects\computerGraphics\computerGraphics\Source.cpp(197,25): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\AAST\Semester 6\Projects\computerGraphics\computerGraphics\Source.cpp(206,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\AAST\Semester 6\Projects\computerGraphics\computerGraphics\Source.cpp(206,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  computerGraphics.vcxproj -> D:\AAST\Semester 6\Projects\computerGraphics\x64\Debug\computerGraphics.exe
