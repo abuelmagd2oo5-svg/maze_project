@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.o
+*.dll
+*.lib
+x64/
+.vscode/
